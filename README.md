@@ -15,4 +15,4 @@ Now you can launch the game with 'lanceur.bat', you can creat a shortcut of 'lan
 -  Press Escape to access to the menu
 -  A multiplayer mode is accessible
 
-[](https://github.com/CMoiMec/Escape-Yourself/blob/main/assets/capture.png)
+[](https://github.com/CMoiMec/Escape-Yourself/blob/main/assets/capture.png?raw=true)
