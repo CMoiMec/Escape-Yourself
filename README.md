@@ -10,3 +10,7 @@ After that you can install pygame with pip with the following command:
 'pip install pygame'
 
 Now you can launch the game with 'lanceur.bat', you can creat a shortcut of 'lanceur.bat' if you want
+
+# Extrat
+-  Press Escape to access to the menu
+-  A multiplayer mode is accessible
